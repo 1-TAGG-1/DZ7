@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Header />
-
+//ы
       <Routes>
         <Route path='/' element={<Main />} />
         <Route path='/About' element={<About />} />
